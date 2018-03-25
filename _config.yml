@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏信
+title: shark3D
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: leopardpan
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: 3D / 软件学习
 url: "http://baixin.io"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
+    weibo: 361582495 
     github: leopardpan
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: zhangpeiyushark@gmail.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
